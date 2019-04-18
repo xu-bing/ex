@@ -1,0 +1,17 @@
+%%[ ProductName: Distiller ]%%
+%%[ Error: typecheck; OffendingCommand: xshow ]%%
+
+Stack:
+[69 70 0]
+(???
+0.0
+[]
+10.0
+1
+1
+1.0
+false
+
+
+%%[ Flushing: rest of job (to end-of-file) will be ignored ]%%
+%%[ Warning: PostScript error. No PDF file produced. ] %%
